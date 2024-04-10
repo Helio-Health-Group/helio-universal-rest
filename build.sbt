@@ -1,10 +1,10 @@
 name := "universal-rest"
 
 version := "0.9.2"
-organization := "com.sapienapps"
+organization := "com.helio"
 
-githubOwner := "sapienapps"
-githubRepository := "universal-rest"
+githubOwner := "Helio-Health-Group"
+githubRepository := "helio-universal-rest"
 
 scalaVersion := "2.13.12"
 
